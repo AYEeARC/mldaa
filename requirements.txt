@@ -1,0 +1,8 @@
+# Machine Learning practicals (ML1–ML6)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tensorflow
